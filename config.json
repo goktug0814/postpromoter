@@ -1,16 +1,12 @@
 {
   "rpc_nodes": [
     "https://api.steemit.com",
-    "https://rpc.buildteam.io",
-    "https://steemd.minnowsupportproject.org",
-    "https://steemd.privex.io",
-    "https://gtg.steem.house:8090"
   ],
   "backup_mode": false,
   "disabled_mode": false,
   "detailed_logging": false,
-  "owner_account": "bot_owner_account_name",
-  "account": "your_bot_account_name",
+  "owner_account": "terasusbot",
+  "account": "terasusbot",
   "memo_key": "your_private_memo_key",
   "posting_key": "your_private_posting_key",
   "active_key": "your_private_active_key",
